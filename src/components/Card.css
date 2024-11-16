@@ -1,0 +1,23 @@
+/* src/components/Card.css */
+.card {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 10px;
+  margin: 10px 0;
+  background-color: #f9f9f9;
+}
+.card h3 {
+  margin: 0;
+  font-size: 1.1em;
+  color: #333;
+}
+.card p {
+  margin: 5px 0;
+  color: #666;
+}
+.priority-icon {
+  width: 20px;
+  height: 20px;
+  vertical-align: middle;
+  margin-right: 5px;
+}
